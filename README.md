@@ -3,7 +3,7 @@
 
 # eUSD: The Confidential Stablecoin
 
-**Electronic USD (eUSD)** is a next-generation, privacy-first stablecoin. It bridges the gap between the transparency required for decentralized trust and the confidentiality required for real-world commerce. By leveraging **Fully Homomorphic Encryption (FHE)** and the **ERC-7984** standard, eUSD keeps individual balances and transaction amounts hidden from the public while remaining 1:1 backed by audited stablecoin collateral.
+**Encrypted USD (eUSD)** is a next-generation, privacy-first stablecoin. It bridges the gap between the transparency required for decentralized trust and the confidentiality required for real-world commerce. By leveraging **Fully Homomorphic Encryption (FHE)** and the **ERC-7984** standard, eUSD keeps individual balances and transaction amounts hidden from the public while remaining 1:1 backed by audited stablecoin collateral.
 
 ---
 
